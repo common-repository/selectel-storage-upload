@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Selectel Storage Upload\n"
+"POT-Creation-Date: 2015-05-04 20:45+0300\n"
+"PO-Revision-Date: 2015-05-04 20:46+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: code.php:39
+msgid "Connection is successfully established. Save the settings."
+msgstr ""
+
+#: code.php:43
+msgid "Connection is not established."
+msgstr ""
+
+#: code.php:411 code.php:448
+msgid "Impossible to upload a file"
+msgstr ""
+
+#: code.php:415
+msgid "Do not have access to the file"
+msgstr ""
+
+#: code.php:427
+msgid "Unable to connect to the container"
+msgstr ""
+
+#: code.php:437
+msgid "Data empty"
+msgstr ""
+
+#: code.php:478
+msgid "Settings"
+msgstr ""
+
+#: code.php:499
+msgid "Type the information for access to your container."
+msgstr ""
+
+#: code.php:501
+msgid "No account? <a href =\"http://goo.gl/8Z0q8H\">Sign up</a>"
+msgstr ""
+
+#: code.php:506
+msgid "Username"
+msgstr ""
+
+#: code.php:517
+msgid "Password"
+msgstr ""
+
+#: code.php:528
+msgid "Container"
+msgstr ""
+
+#: code.php:537
+msgid "Check the connection"
+msgstr ""
+
+#: code.php:542
+msgid "Local path"
+msgstr ""
+
+#: code.php:551
+msgid "Local path to the uploaded files. By default"
+msgstr ""
+
+#: code.php:554 code.php:579
+msgid ""
+"Setting duplicates of the same name from the mediafiles settings. Changing "
+"one, you change and other"
+msgstr ""
+
+#: code.php:560
+msgid "Full URL-path to files"
+msgstr ""
+
+#: code.php:571
+msgid ""
+"Enter the domain or subdomain if store files only in the Selectel Storage"
+msgstr ""
+
+#: code.php:575
+msgid "or full url path, if only used synchronization"
+msgstr ""
+
+#: code.php:585
+msgid "Authorization server"
+msgstr ""
+
+#: code.php:594 code.php:609
+msgid "By default"
+msgstr ""
+
+#: code.php:600
+msgid "Mask files"
+msgstr ""
+
+#: code.php:610
+msgid "for all files, 2 or more values separated by a comma (for example: "
+msgstr ""
+
+#: code.php:617
+msgid "Synchronization settings"
+msgstr ""
+
+#: code.php:623
+msgid "Store files only in the Selectel Storage"
+msgstr ""
+
+#: code.php:627
+msgid "to attach a domain / subdomain to store and specify the settings"
+msgstr ""
+
+#: code.php:631
+msgid ""
+"The file will be deleted from the hosting after a successful download. It "
+"will only copy in the Selectel Storage"
+msgstr ""
+
+#: code.php:641
+msgid ""
+"Delete files from the Selectel Storage if they are removed from the library"
+msgstr ""
+
+#: code.php:653
+msgid "Do not overwrite the file if it already exists in the storage"
+msgstr ""
+
+#: code.php:664
+msgid "Enable debug mode. Do not enable unless you know what it is."
+msgstr ""
+
+#: code.php:686
+msgid "Full synchronization"
+msgstr ""
+
+#: code.php:689
+msgid "Show the list of files to synchronize"
+msgstr ""
+
+#: code.php:699
+msgid ""
+"!WARNING! Full synchronization is not designed to synchronize a huge number "
+"of files. Firstly, it takes a lot of time, and secondly it will lead to an "
+"increase in the load on the server that might cause authorization of the "
+"host. With a large number of files is recommended that you synchronize files "
+"manually via FTP, and then use this plugin to sync."
+msgstr ""
+
+#: code.php:706
+msgid ""
+"You can always help the development of plug-in and contribute to the "
+"emergence of new functionality."
+msgstr ""
+
+#: code.php:712
+msgid "If you have any ideas or suggestions"
+msgstr ""
+
+#: code.php:715
+msgid "contact the author"
+msgstr ""
+
+#: code.php:721
+msgid "You can always thank the author of financially."
+msgstr ""
+
+#: code.php:740
+msgid "Yandex.Money"
+msgstr ""
+
+#: supload.php:27
+msgid ""
+"Plugin Selectel Cloud Uploader requires PHP 5.3.3 or higher. The plugin has "
+"now disabled itself."
+msgstr ""
+
+#: supload.php:36
+msgid ""
+"Plugin Selectel Cloud Uploader requires cURL 7.16.2+. The plugin has now "
+"disabled itself."
+msgstr ""
+
+#: supload.php:41
+msgid ""
+"Plugin Selectel Cloud Uploader requires that cURL is compiled with OpenSSL. "
+"The plugin has now disabled itself."
+msgstr ""
